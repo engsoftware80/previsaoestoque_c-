@@ -1,2 +1,4 @@
-# previsaoestoque_c-
-Sistema  de cáculo de previsão de Estoque
+## Descrição do Projeto
+Sistema feito em C# DeskTop para cálculo de previsão de Estoque Final com uma margem de Lucro sobre a venda.
+
+
